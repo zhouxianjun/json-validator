@@ -3,7 +3,7 @@
 
 [Node.js](http://nodejs.org).
 
-npm install json-validator
+npm install path-validator
 
 ---
 
@@ -11,7 +11,7 @@ npm install json-validator
 
 ```javascript
 // 引用模块
-const validator = require('json-validator');
+const validator = require('path-validator');
 // 存放规则
 let rule = new Map();
 // 设置验证规则

@@ -1,6 +1,6 @@
 {
   "name": "path-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "json validator jpath",
   "main": "index.js",
   "scripts": {
